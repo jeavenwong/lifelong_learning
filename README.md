@@ -17,3 +17,13 @@
 - [ ] 阅读《SQL查询的艺术》
 - [ ] 阅读《MongoDB权威指南》
 - [ ] 阅读《相关性搜索：利用Solr与Elasticsearch创建智能应用》
+
+算法训练：
+
+- [ ] 刷250道leetcode easy。
+
+  进度：2/250
+
+- [ ] 刷250道leetcode medium。
+
+  进度 0/250
