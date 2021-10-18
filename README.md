@@ -22,7 +22,7 @@
 
 - [ ] 刷250道leetcode easy。
 
-  进度：2/250
+  进度：4/250
 
 - [ ] 刷250道leetcode medium。
 
