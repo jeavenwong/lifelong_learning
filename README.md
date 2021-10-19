@@ -17,7 +17,7 @@
 - [ ] 阅读《深入浅出MySql》
 - [ ] 阅读《SQL查询的艺术》
 - [ ] 阅读《MongoDB权威指南》
-- [ ] 阅读《相关性搜索：利用Solr与Elasticsearch创建智能应用》
+- [x] 阅读《相关性搜索：利用Solr与Elasticsearch创建智能应用》，进度 1 %
 
 算法训练：
 
