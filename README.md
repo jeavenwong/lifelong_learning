@@ -3,12 +3,12 @@
 
 学习云计算：
 
-- [ ] 阅读 《学习Go语言》
-  学习 golang
-- [x] 阅读《[Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests/)》，进度 80%
+- [ ] 阅读 《学习Go语言》，学习 golang
+- [x] 阅读 《[Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests/)》，进度 80%
 - [ ] 阅读 《Docker容器与容器云》
-- [ ] 阅读《每天五分钟玩转Docker容器》
-- [ ] 阅读《Kubernetes权威指南》
+- [ ] 阅读 《每天五分钟玩转Docker容器》
+- [ ] 阅读 《Kubernetes权威指南》
+- [ ] 阅读 《深入剖析Kubernetes》
 
 学习RDBMS/NoSql：
 
